@@ -1,0 +1,13 @@
+Packages:
+Matplotlib --->	conda install matplotlib
+Seaborn    --->	conda install seaborn
+Wordcloud  --->	conda install -c conda-forge wordcloud
+Textblob   --->	conda install -c conda-forge textblob
+	    |->	python -m textblob.download_corpora
+
+Frameworks:
+Apache Spark 2.4.7
+
+Languages:
+Python 3
+PySpark 3.1.2

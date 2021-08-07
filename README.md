@@ -14,3 +14,6 @@ The libraries used for the project are:
 <h2>Project Requirement</h2>
 
 For the installation, please refer to the file, *Requirement.txt*.
+
+<h2>Result and Output</h2>
+ If you would like to read about the results and analysis of the data please take a look at my blog at <a href="https://atharvdix.com/sentiment-analysis-of-covid-19-vaccine-tweets/">Sentiment Analysis of COVID19 Vaccine</a>
